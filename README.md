@@ -56,8 +56,6 @@ WA • Trigger! ──┘
 - ✅ Photo
 - ✅ Video
 - ✅ Voice / Audio
-- ✅ Document
-- ✅ Sticker
 - ✅ Reply to any message type
 
 **من WhatsApp (عبر Evolution API):**
@@ -65,8 +63,6 @@ WA • Trigger! ──┘
 - ✅ Image
 - ✅ Video
 - ✅ Audio / Voice
-- ✅ Document
-- ✅ Sticker
 - ✅ Reply to any message type
 - ✅ فلترة رسائل الـ `fromMe`
 
